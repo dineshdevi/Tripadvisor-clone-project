@@ -673,5 +673,8 @@ video {
     .img__heaading__img4 {
         flex-basis: 50%;
     }
+    .para {
+        font-size: 45px;
+    }
 
 }
